@@ -1,12 +1,12 @@
 # Hello, I'm Valentin GIROD 👋
 
 ## About Me
-🎓 2nd year Engineering student at CESI
-💼 Currently working as an apprentice at Orange
-🔐 Passionate about Cybersecurity, especially Penetration Testing
-🐍 Working with Python in my professional role
-🌱 Always learning new security techniques and tools
-📫 How to reach me: valentin.girod@icloud.com
+- 🎓 2nd year Engineering student at CESI
+- 💼 Currently working as an apprentice at Orange
+- 🔐 Passionate about Cybersecurity, especially Penetration Testing
+- 🐍 Working with Python in my professional role
+- 🌱 Always learning new security techniques and tools
+- 📫 How to reach me: valentin.girod@icloud.com
 
 ## Skills & Technologies
 ![](https://img.shields.io/badge/Security-Pentesting-informational?style=flat&logo=kali-linux&logoColor=white&color=2bbc8a)
