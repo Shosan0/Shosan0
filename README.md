@@ -21,13 +21,16 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shosan0&layout=compact&theme=dark)
 
 ## Featured Projects
-<!-- Replace with your actual projects when you have them -->
-<a href="[https://github.com/Shosan0/project-1](https://github.com/raphi9864/cesi-eat)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shosan0&repo=project-1&theme=dark" />
+<a href="https://github.com/raphi9864/cesi-eat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raphi9864&repo=cesi-eat&theme=dark" />
 </a>
-<a href="https://github.com/Shosan0/project-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shosan0&repo=project-2&theme=dark" />
+<!-- You can add another project below when you have one -->
+<!-- 
+<a href="https://github.com/Shosan0/project-name">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shosan0&repo=project-name&theme=dark" />
 </a>
+-->
+
 
 ## Current Focus
 - 🔍 Improving my penetration testing skills
