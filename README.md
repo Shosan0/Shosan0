@@ -22,7 +22,7 @@
 
 ## Featured Projects
 <!-- Replace with your actual projects when you have them -->
-<a href="https://github.com/Shosan0/project-1">
+<a href="[https://github.com/Shosan0/project-1](https://github.com/raphi9864/cesi-eat)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shosan0&repo=project-1&theme=dark" />
 </a>
 <a href="https://github.com/Shosan0/project-2">
