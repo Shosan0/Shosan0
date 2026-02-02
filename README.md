@@ -1,7 +1,7 @@
 # Hello, I'm Valentin GIROD 👋
 
 ## About Me
-- 🎓 2nd year Engineering student at CESI
+- 🎓 3rd year Engineering student at CESI
 - 💼 Currently working as an apprentice at Orange
 - 🔐 Passionate about Cybersecurity, especially Penetration Testing
 - 🐍 Working with Python in my professional role
