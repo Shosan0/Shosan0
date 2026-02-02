@@ -16,22 +16,13 @@
 ![](https://img.shields.io/badge/Network-Security-informational?style=flat&logo=cisco&logoColor=white&color=2bbc8a)
 
 ## GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shosan0&show_icons=true&theme=dark)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shosan0&show_icons=true&theme=dark&hide_border=true)](https://github.com/Shosan0)
 
 ## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shosan0&layout=compact&theme=dark)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shosan0&layout=compact&theme=dark&hide_border=true)](https://github.com/Shosan0)
 
 ## Featured Projects
-<a href="https://github.com/raphi9864/cesi-eat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raphi9864&repo=cesi-eat&theme=dark" />
-</a>
-<!-- You can add another project below when you have one -->
-<!-- 
-<a href="https://github.com/Shosan0/project-name">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shosan0&repo=project-name&theme=dark" />
-</a>
--->
-
+[![CESI Eat](https://github-readme-stats.vercel.app/api/pin/?username=raphi9864&repo=cesi-eat&theme=dark&hide_border=true)](https://github.com/raphi9864/cesi-eat)
 
 ## Current Focus
 - 🔍 Improving my penetration testing skills
