@@ -3,10 +3,10 @@
 ## About Me
 - 🎓 3rd year Engineering student at CESI
 - 💼 Currently working as an apprentice at Orange
-- 🔐 Passionate about Cybersecurity, especially Penetration Testing
+- 🔐 Passionate about Cybersecurity, especially governance
 - 🐍 Working with Python in my professional role
 - 🌱 Always learning new security techniques and tools
-- 🦝 Big raccoon enthusiast!
+- 🦝 Big raccoon enthusiast
 - 📫 How to reach me: valentin.girod@icloud.com
 
 ## Skills & Technologies
